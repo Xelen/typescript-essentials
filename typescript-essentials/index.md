@@ -15,13 +15,32 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 
 ## Reflections
 
-1. **Getting Started with TypeScript Module**
-   > ![Getting Started with TypeScript Module](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-get-started.svg)
-   >
-   > Diving into TypeScript, my initial module on this journey, provided me with a clear understanding of TypeScript's purpose and its advantages over JavaScript.
-   >
-   > Learning about its origin and the problems it aims to solve, such as runtime errors and type safety issues in JavaScript, was enlightening. The exercises were particularly valuable; selecting an editor, installing the TypeScript compiler, and compiling a TypeScript file for the first time were hands-on tasks that made the abstract concepts concrete.
-   >
-   > This module did not just introduce me to TypeScript; it made me appreciate its potential to make JavaScript development more robust and error-free.
-   >
-   > ✅ 900 XP
+> 1.  **Getting Started with TypeScript Module**
+>
+> ![Getting Started with TypeScript Module](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-get-started.svg)
+>
+> Diving into TypeScript, my initial module on this journey, provided me with a clear understanding of TypeScript's purpose and its advantages over JavaScript.
+>
+> Learning about its origin and the problems it aims to solve, such as runtime errors and type safety issues in JavaScript, was enlightening. The exercises were particularly valuable; selecting an editor, installing the TypeScript compiler, and compiling a TypeScript file for the first time were hands-on tasks that made the abstract concepts concrete.
+>
+> This module did not just introduce me to TypeScript; it made me appreciate its potential to make JavaScript development more robust and error-free.
+>
+> ✅ 900 XP
+
+---
+
+> 2.  **Declare Variable Types in TypeScript**
+>
+> ![Declare Variable Types in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-variable-types.svg)
+>
+> In this module, I discovered the power of TypeScript's static typing, a stark contrast to JavaScript's dynamic nature.
+>
+> Learning about various types like primitives, enums, any, unknown, unions, intersections, and collections showcased TypeScript's ability to make code more predictable and robust.
+>
+> The exercises, particularly with enums and the lab, were practical and illuminating, showing how proper typing can safeguard against errors and improve code readability.
+>
+> This exploration into TypeScript's type system has not only enhanced my coding practices but also deepened my appreciation for the language's structure and safety features.
+>
+> ✅ 1100 XP
+
+---
