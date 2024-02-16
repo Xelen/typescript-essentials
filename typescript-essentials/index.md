@@ -27,6 +27,8 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 900 XP
 >
+> ---
+>
 > ### **2. Declare Variable Types in TypeScript**
 >
 > ![Declare Variable Types in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-variable-types.svg)
@@ -40,3 +42,17 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 > This exploration into TypeScript's type system has not only enhanced my coding practices but also deepened my appreciation for the language's structure and safety features.
 >
 > ✅ 1100 XP
+>
+> ---
+>
+> ### **3. Implement Interfaces in TypeScript**
+>
+> ![Implement Interfaces in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-implement-interfaces.svg)
+>
+> Exploring interfaces in TypeScript was a novel experience for me, coming from a JavaScript background where such concepts don't exist. The module's focus on using interfaces to define object types was particularly enlightening.
+>
+> Through exercises like declaring, instantiating, and extending interfaces, I gained hands-on experience with how interfaces enhance code structure and enforce consistency across objects. The lab session deepened my understanding by challenging me to apply interfaces in more complex scenarios.
+>
+> This module has broadened my perspective on object-oriented programming within TypeScript, showing me the value of interfaces in defining and adhering to clear contracts in my code.
+>
+> ✅ 900 XP
