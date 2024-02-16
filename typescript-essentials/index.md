@@ -4,7 +4,7 @@
 
 This is a compilation of achievements I've obtained by finishing the TypeScript courses on Microsoft Learn:
 
-1. **Getting Started with TypeScript**: [**Badge 🎫**](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/UFSG8H53?sharingId=1990355FC560CAC6)
+1. [**Getting Started with TypeScript**](#1-getting-started-with-typescript-module): [**Badge 🎫**](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/UFSG8H53?sharingId=1990355FC560CAC6)
 2. **Declare Variable Types in TypeScript**: [**Badge 🎫**](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/ZPNYWRT2?sharingId=1990355FC560CAC6)
 3. **Implement Interfaces in TypeScript**: [**Badge 🎫**](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/FZURJJNX?sharingId=1990355FC560CAC6)
 4. **Develop Typed Functions in TypeScript**: [**Badge 🎫**](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/24XB945V?sharingId=1990355FC560CAC6)
