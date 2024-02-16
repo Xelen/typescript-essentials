@@ -15,7 +15,7 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 
 ## Reflections
 
-> 1.  **Getting Started with TypeScript Module**
+> ### **1. **Getting Started with TypeScript Module\*\*
 >
 > ![Getting Started with TypeScript Module](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-get-started.svg)
 >
@@ -26,10 +26,8 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 > This module did not just introduce me to TypeScript; it made me appreciate its potential to make JavaScript development more robust and error-free.
 >
 > ✅ 900 XP
-
----
-
-> 2.  **Declare Variable Types in TypeScript**
+>
+> ### **2. Declare Variable Types in TypeScript**
 >
 > ![Declare Variable Types in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-variable-types.svg)
 >
@@ -42,5 +40,3 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 > This exploration into TypeScript's type system has not only enhanced my coding practices but also deepened my appreciation for the language's structure and safety features.
 >
 > ✅ 1100 XP
-
----
