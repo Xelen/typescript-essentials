@@ -17,7 +17,11 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 
 1. **Getting Started with TypeScript Module**
    > ![Getting Started with TypeScript Module](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-get-started.svg)
+   >
    > Diving into TypeScript, my initial module on this journey, provided me with a clear understanding of TypeScript's purpose and its advantages over JavaScript.
+   >
    > Learning about its origin and the problems it aims to solve, such as runtime errors and type safety issues in JavaScript, was enlightening. The exercises were particularly valuable; selecting an editor, installing the TypeScript compiler, and compiling a TypeScript file for the first time were hands-on tasks that made the abstract concepts concrete.
+   >
    > This module did not just introduce me to TypeScript; it made me appreciate its potential to make JavaScript development more robust and error-free.
+   >
    > ✅ 900 XP
