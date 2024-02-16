@@ -62,3 +62,21 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 > ✅ 900 XP
 >
 > #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-implement-interfaces/)
+>
+> ---
+>
+> ### **4. Develop Typed Functions in TypeScript**
+>
+> ![Develop Typed Functions in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-develop-typed-functions.svg)
+>
+> This module illuminated the enhancements TypeScript brings to JavaScript functions. Learning to create functions in TypeScript felt familiar yet new, with the addition of types adding clarity and predictability to function parameters and return values.
+>
+> The exercises, particularly those focusing on parameter intricacies and defining function types, offered practical insights into how TypeScript's type system can be leveraged to design more robust functions.
+>
+> The lab session, which involved applying these concepts in a comprehensive manner, solidified my understanding and appreciation for typed functions.
+>
+> This module has equipped me with the skills to write cleaner, more reliable code by fully utilizing TypeScript's capabilities in function development.
+>
+> ✅ 1000 XP
+>
+> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-develop-typed-functions/)
