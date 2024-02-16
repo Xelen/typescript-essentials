@@ -4,18 +4,18 @@
 
 This is a compilation of achievements I've obtained by finishing the TypeScript courses on Microsoft Learn:
 
-1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/UFSG8H53?sharingId=1990355FC560CAC6)
-2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/ZPNYWRT2?sharingId=1990355FC560CAC6)
-3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/FZURJJNX?sharingId=1990355FC560CAC6)
-4. **Develop Typed Functions in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/24XB945V?sharingId=1990355FC560CAC6)
-5. **Declare and Instantiate Classes in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/WACERY6N?sharingId=1990355FC560CAC6)
-6. **Generics in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/PTZ9LBT4?sharingId=1990355FC560CAC6)
-7. **Work with External Libraries in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/9NSZGVLU?sharingId=1990355FC560CAC6)
+1. **Getting Started with TypeScript**: [Badge 🥇](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/UFSG8H53?sharingId=1990355FC560CAC6)
+2. **Declare Variable Types in TypeScript**: [Badge 🥇](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/ZPNYWRT2?sharingId=1990355FC560CAC6)
+3. **Implement Interfaces in TypeScript**: [Badge 🥇](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/FZURJJNX?sharingId=1990355FC560CAC6)
+4. **Develop Typed Functions in TypeScript**: [Badge 🥇](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/24XB945V?sharingId=1990355FC560CAC6)
+5. **Declare and Instantiate Classes in TypeScript**: [Badge 🥇](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/WACERY6N?sharingId=1990355FC560CAC6)
+6. **Generics in TypeScript**: [Badge 🥇](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/PTZ9LBT4?sharingId=1990355FC560CAC6)
+7. **Work with External Libraries in TypeScript**: [Badge 🥇](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/9NSZGVLU?sharingId=1990355FC560CAC6)
 8. **Organize Code with Namespaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Xelena-2318/QDACKD8E?sharingId=1990355FC560CAC6)
 
 ## Reflections
 
-> ### **1. **Getting Started with TypeScript Module\*\*
+> ### **1. Getting Started with TypeScript Module**
 >
 > ![Getting Started with TypeScript Module](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-get-started.svg)
 >
@@ -26,6 +26,8 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 > This module did not just introduce me to TypeScript; it made me appreciate its potential to make JavaScript development more robust and error-free.
 >
 > ✅ 900 XP
+>
+> ### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-get-started/)
 >
 > ---
 >
@@ -43,6 +45,8 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 1100 XP
 >
+> ### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-declare-variable-types/)
+>
 > ---
 >
 > ### **3. Implement Interfaces in TypeScript**
@@ -56,3 +60,5 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 > This module has broadened my perspective on object-oriented programming within TypeScript, showing me the value of interfaces in defining and adhering to clear contracts in my code.
 >
 > ✅ 900 XP
+>
+> ### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-implement-interfaces/)
