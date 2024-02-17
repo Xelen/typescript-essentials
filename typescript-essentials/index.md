@@ -80,3 +80,21 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 > ✅ 1000 XP
 >
 > #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-develop-typed-functions/)
+>
+> ---
+>
+> ### **5. Declare and Instantiate Classes in TypeScript**
+>
+> ![Declare and Instantiate Classes in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-instantiate-classes.svg)
+>
+> This module was a deep dive into the object-oriented capabilities of TypeScript, particularly around classes. The addition of type annotations, access modifiers, and the nuanced handling of class members in TypeScript goes beyond what ES6 offers, providing a more robust and secure way to structure object-oriented code.
+>
+> The exercises, from creating and instantiating classes to applying access modifiers and defining static properties, were hands-on and enlightening. Extending classes through inheritance and ensuring class shapes through interfaces were highlights that showcased TypeScript's power in enforcing consistency and promoting code reuse.
+>
+> The lab, which involved converting functions to a class definition, was a practical challenge that tied together all the concepts learned.
+>
+> This module has significantly enhanced my ability to use TypeScript for more structured, maintainable, and scalable code development.
+>
+> ✅ 1000 XP
+>
+> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-declare-instantiate-classes/)
