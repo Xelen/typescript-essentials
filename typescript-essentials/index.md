@@ -116,3 +116,21 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 > ✅ 900 XP
 >
 > #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-generics/)
+>
+> ---
+>
+> ### **7. Work with External Libraries in TypeScript**
+>
+> ![Work with External Libraries in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-work-external-libraries.svg)
+>
+> Diving into TypeScript modules, this module was a game-changer for me in terms of code organization and leveraging external libraries.
+>
+> Learning to export and import components, compile modules, and especially access external type libraries, opened up a new realm of efficiency and type safety.
+>
+> The lab work solidified these concepts by putting them into action, making the benefits of TypeScript's module system abundantly clear.
+>
+> This practical experience has greatly enhanced my ability to structure projects more effectively and tap into the vast JavaScript library ecosystem with confidence.
+>
+> ✅ 900 XP
+>
+> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-work-external-libraries/)
