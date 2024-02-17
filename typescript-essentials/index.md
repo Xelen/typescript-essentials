@@ -134,3 +134,21 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 > ✅ 900 XP
 >
 > #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-work-external-libraries/)
+>
+> ---
+>
+> ### **8. Organize Code with Namespaces in TypeScript**
+>
+> ![Organize Code with Namespaces in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-namespaces-organize-code.svg)
+>
+> Exploring namespaces in TypeScript offered me a new perspective on code organization, complementing what I learned about modules.
+>
+> This module's focus on namespaces, from single to multi-file configurations, provided a clear path for structuring code in a more encapsulated and manageable way.
+>
+> The exercises, particularly the lab where I had to organize code using namespaces, were practical and enlightening. They demonstrated the value of namespaces in creating logically grouped code entities that are easy to navigate and maintain.
+>
+> This module has equipped me with an additional tool in my TypeScript toolkit, enhancing my ability to keep my projects organized and scalable.
+>
+> ✅ 900 XP
+>
+> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-namespaces-organize-code/)
