@@ -95,6 +95,24 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > This module has significantly enhanced my ability to use TypeScript for more structured, maintainable, and scalable code development.
 >
-> ✅ 1000 XP
+> ✅ 1500 XP
 >
 > #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-declare-instantiate-classes/)
+>
+> ---
+>
+> ### **6. Generics in TypeScript**
+>
+> ![Generics in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-generics.svg)
+>
+> Embarking on the generics module was like unlocking a new level in TypeScript programming for me. Generics introduced a layer of flexibility and reusability in type definitions that I hadn't experienced before.
+>
+> The concept of using code templates that adapt to the type provided at the time of calling a function, class, or interface was both powerful and intriguing. The exercises, especially implementing generics with interfaces, classes, and custom types, were practical and insightful. They demonstrated how generics enhance code by making it more adaptable without sacrificing type safety.
+>
+> The lab session, where I had to declare a class using a generic, was particularly challenging but rewarding, solidifying my understanding of how generics can be leveraged to create highly reusable and maintainable code.
+>
+> This module has profoundly expanded my toolbox in TypeScript, offering a new dimension of coding practices that emphasize type safety and flexibility.
+>
+> ✅ 900 XP
+>
+> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-generics/)
