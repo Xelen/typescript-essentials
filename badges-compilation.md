@@ -17,7 +17,7 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 
 > ### **1. Getting Started with TypeScript Module**
 >
-> ![Getting Started with TypeScript Module](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-get-started.svg)
+> ![Getting Started with TypeScript Module](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-get-started.svg)
 >
 > Diving into TypeScript, my initial module on this journey, provided me with a clear understanding of TypeScript's purpose and its advantages over JavaScript.
 >
@@ -27,13 +27,13 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 900 XP
 >
-> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-get-started/)
+> #### 📘 [View the Module](https://learn.microsoft.com/ru-ru/training/modules/typescript-get-started/)
 >
 > ---
 >
 > ### **2. Declare Variable Types in TypeScript**
 >
-> ![Declare Variable Types in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-variable-types.svg)
+> ![Declare Variable Types in TypeScript](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-declare-variable-types.svg)
 >
 > In this module, I discovered the power of TypeScript's static typing, a stark contrast to JavaScript's dynamic nature.
 >
@@ -45,13 +45,13 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 1100 XP
 >
-> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-declare-variable-types/)
+> #### 📘 [View the Module](https://learn.microsoft.com/ru-ru/training/modules/typescript-declare-variable-types/)
 >
 > ---
 >
 > ### **3. Implement Interfaces in TypeScript**
 >
-> ![Implement Interfaces in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-implement-interfaces.svg)
+> ![Implement Interfaces in TypeScript](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-implement-interfaces.svg)
 >
 > Exploring interfaces in TypeScript was a novel experience for me, coming from a JavaScript background where such concepts don't exist. The module's focus on using interfaces to define object types was particularly enlightening.
 >
@@ -61,13 +61,13 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 900 XP
 >
-> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-implement-interfaces/)
+> #### 📘 [View the Module](https://learn.microsoft.com/ru-ru/training/modules/typescript-implement-interfaces/)
 >
 > ---
 >
 > ### **4. Develop Typed Functions in TypeScript**
 >
-> ![Develop Typed Functions in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-develop-typed-functions.svg)
+> ![Develop Typed Functions in TypeScript](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-develop-typed-functions.svg)
 >
 > This module illuminated the enhancements TypeScript brings to JavaScript functions. Learning to create functions in TypeScript felt familiar yet new, with the addition of types adding clarity and predictability to function parameters and return values.
 >
@@ -79,13 +79,13 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 1000 XP
 >
-> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-develop-typed-functions/)
+> #### 📘 [View the Module](https://learn.microsoft.com/ru-ru/training/modules/typescript-develop-typed-functions/)
 >
 > ---
 >
 > ### **5. Declare and Instantiate Classes in TypeScript**
 >
-> ![Declare and Instantiate Classes in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-declare-instantiate-classes.svg)
+> ![Declare and Instantiate Classes in TypeScript](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-declare-instantiate-classes.svg)
 >
 > This module was a deep dive into the object-oriented capabilities of TypeScript, particularly around classes. The addition of type annotations, access modifiers, and the nuanced handling of class members in TypeScript goes beyond what ES6 offers, providing a more robust and secure way to structure object-oriented code.
 >
@@ -97,13 +97,13 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 1500 XP
 >
-> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-declare-instantiate-classes/)
+> #### 📘 [View the Module](https://learn.microsoft.com/ru-ru/training/modules/typescript-declare-instantiate-classes/)
 >
 > ---
 >
 > ### **6. Generics in TypeScript**
 >
-> ![Generics in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-generics.svg)
+> ![Generics in TypeScript](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-generics.svg)
 >
 > Embarking on the generics module was like unlocking a new level in TypeScript programming for me. Generics introduced a layer of flexibility and reusability in type definitions that I hadn't experienced before.
 >
@@ -115,13 +115,13 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 900 XP
 >
-> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-generics/)
+> #### 📘 [View the Module](https://learn.microsoft.com/ru-ru/training/modules/typescript-generics/)
 >
 > ---
 >
 > ### **7. Work with External Libraries in TypeScript**
 >
-> ![Work with External Libraries in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-work-external-libraries.svg)
+> ![Work with External Libraries in TypeScript](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-work-external-libraries.svg)
 >
 > Diving into TypeScript modules, this module was a game-changer for me in terms of code organization and leveraging external libraries.
 >
@@ -133,13 +133,13 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 900 XP
 >
-> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-work-external-libraries/)
+> #### 📘 [View the Module](https://learn.microsoft.com/ru-ru/training/modules/typescript-work-external-libraries/)
 >
 > ---
 >
 > ### **8. Organize Code with Namespaces in TypeScript**
 >
-> ![Organize Code with Namespaces in TypeScript](https://learn.microsoft.com/en-us/training/achievements/typescript/typescript-namespaces-organize-code.svg)
+> ![Organize Code with Namespaces in TypeScript](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-namespaces-organize-code.svg)
 >
 > Exploring namespaces in TypeScript offered me a new perspective on code organization, complementing what I learned about modules.
 >
@@ -151,4 +151,4 @@ This is a compilation of achievements I've obtained by finishing the TypeScript 
 >
 > ✅ 900 XP
 >
-> #### 📘 [View the Module](https://learn.microsoft.com/en-us/training/modules/typescript-namespaces-organize-code/)
+> #### 📘 [View the Module](https://learn.microsoft.com/ru-ru/training/modules/typescript-namespaces-organize-code/)
